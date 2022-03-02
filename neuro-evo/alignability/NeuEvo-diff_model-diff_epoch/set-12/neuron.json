@@ -1,0 +1,32 @@
+{
+    "neuron-0": {
+        "model": "vgg16_pretrained",
+        "neuron": "Sequential_0_Conv2d_5-48",
+        "random": "no"
+    },
+    "neuron-1": {
+        "model": "inception-v3-512-0.5-0.9-121",
+        "neuron": "InceptionE_18-1337",
+        "random": "no"
+    },
+    "neuron-2": {
+        "model": "vgg16-512-0.01-0.9-5",
+        "neuron": "Sequential_0_Conv2d_10-146",
+        "random": "no"
+    },
+    "neuron-3": {
+        "model": "inception-v3-512-1.5-0.9-4",
+        "neuron": "InceptionD_16-448",
+        "random": "no"
+    },
+    "neuron-4": {
+        "model": "inception-v3-512-0.5-0.9-3",
+        "neuron": "InceptionE_18-172",
+        "random": "no"
+    },
+    "neuron-5": {
+        "model": "inception-v3-512-0.5-0.9-11",
+        "neuron": "InceptionE_18-1020",
+        "random": "yes"
+    }
+}
