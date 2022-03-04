@@ -1,32 +1,32 @@
 {
     "neuron-0": {
         "model": "vgg16-512-0.01-0.9-21",
-        "neuron": "Sequential_0_Conv2d_10-27",
+        "neuron": "Sequential_0_Conv2d_12-8",
         "random": "no"
     },
     "neuron-1": {
-        "model": "vgg16-512-0.01-0.9-207",
-        "neuron": "Sequential_0_Conv2d_24-296",
+        "model": "vgg16-512-0.01-0.9-5",
+        "neuron": "Sequential_0_Conv2d_17-467",
         "random": "no"
     },
     "neuron-2": {
-        "model": "vgg16-512-0.01-0.9-21",
-        "neuron": "Sequential_0_Conv2d_17-220",
+        "model": "vgg16-512-0.01-0.9-207",
+        "neuron": "Sequential_0_Conv2d_14-79",
         "random": "no"
     },
     "neuron-3": {
-        "model": "vgg16-512-0.01-0.9-5",
-        "neuron": "Sequential_0_Conv2d_17-94",
-        "random": "no"
+        "model": "vgg16-512-0.01-0.9-207",
+        "neuron": "Sequential_0_Conv2d_14-226",
+        "random": "yes"
     },
     "neuron-4": {
         "model": "vgg16-512-0.01-0.9-5",
-        "neuron": "Sequential_0_Conv2d_19-460",
+        "neuron": "Sequential_0_Conv2d_2-27",
         "random": "no"
     },
     "neuron-5": {
-        "model": "vgg16-512-0.01-0.9-21",
-        "neuron": "Sequential_0_Conv2d_12-52",
-        "random": "yes"
+        "model": "vgg16-512-0.01-0.9-207",
+        "neuron": "Sequential_0_Conv2d_14-212",
+        "random": "no"
     }
 }
